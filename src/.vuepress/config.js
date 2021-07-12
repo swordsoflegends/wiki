@@ -68,6 +68,14 @@ module.exports = {
           collapsable: false,
           children: [["/tips/leveling", "Leveling"]],
         },
+        {
+          title: "Mechanics",
+          collapsable: false,
+          children: [
+            ["/mechanics/lifeskills", "Life Skills"],
+            ["/mechanics/alliances", "Alliances"],
+          ],
+        },
       ],
     },
   },
