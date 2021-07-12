@@ -2,4 +2,8 @@
 
 ## Disable tips in-game
 
-Currently the only way is to dismiss the tips with the X. After clicking the dismiss they never come back.
+If you close the tooltip section on the middle-bottom of the screen they'll slowly stop showing.
+
+## Autorun
+
+You can toggle the autorun feature with hotkey G or the middle mouse button.
