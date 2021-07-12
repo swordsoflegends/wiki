@@ -1,0 +1,23 @@
+{
+  "name": "swordsoflegends-wiki",
+  "version": "0.0.1",
+  "description": "wiki",
+  "main": "index.js",
+  "authors": {
+    "name": "Emmanuel Lampe",
+    "email": "contact@swordsoflegends.eu"
+  },
+  "repository": "https://github.com/swordsoflegends/wiki/swordsoflegends-wiki",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  },
+  "dependencies": {
+    "vuepress-plugin-clean-urls": "^1.1.2",
+    "vuepress-theme-book": "^0.0.5"
+  }
+}
