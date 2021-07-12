@@ -12,4 +12,4 @@ jobs:
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         BUILD_DIR: src/.vuepress/dist/
-        BUILD_SCRIPT: yarn install && yarn build && echo "${{ secrets.CNAME }}" > CNAME
+        BUILD_SCRIPT: yarn install && yarn build && echo "${{ secrets.CNAME }}" > src/.vuepress/dist/CNAME
