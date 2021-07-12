@@ -77,6 +77,7 @@ module.exports = {
           children: [
             ["/tips/leveling", "Leveling"],
             ["/tips/guides", "Guides"],
+            ["/tips/misc", "Miscellaneous"],
           ],
         },
       ],
