@@ -34,7 +34,7 @@ module.exports = {
   themeConfig: {
     repo: "swordsoflegends/wiki",
     editLinks: true,
-    docsDir: "",
+    docsDir: "src",
     editLinkText: "Edit this page on Github",
     lastUpdated: "Last Updated",
     nav: [
